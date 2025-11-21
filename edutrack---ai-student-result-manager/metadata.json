@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack - AI Student Result Manager",
+  "description": "A comprehensive student result management system featuring a dashboard, result entry, and AI-powered performance analysis using Gemini.",
+  "requestFramePermissions": []
+}
